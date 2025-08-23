@@ -9,7 +9,7 @@
   <a href="https://github.com/Daccho/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-WebApp-blue?style=for-the-badge&logo=react" alt="Portfolio">
   </a>
-  <a href="https://twitter.com/[Your_Twitter_ID]">
+  <a href="https://twitter.com/@Daccho_Tech">
     <img src="https://img.shields.io/badge/Twitter-follow_me-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter">
   </a>
 </p>
@@ -17,9 +17,9 @@
 ---
 
 ### 💡 About Me
-- 🏫 I'm a high school student in Japan.
+- 🏫 I'm a university student in Japan.
 - 💻 I'm passionate about backend development, algorithms, and game development.
-- 🌱 I’m currently learning **Go** and **Rust**.
+- 🌱 I’m currently learning **Go** 
 - 🚀 I enjoy building useful applications and tools.
 
 ---
