@@ -18,8 +18,8 @@
 
 ### 💡 About Me
 - 🏫 I'm a university student in Japan.
-- 💻 I'm passionate about backend development, algorithms, and game development.
-- 🌱 I’m currently learning **Go** 
+- 💻 I'm passionate about backend development and algorithms.
+- 🌱 I’m currently learning **Go** and **TS**
 - 🚀 I enjoy building useful applications and tools.
 
 ---
