@@ -2,7 +2,7 @@
   Hi there 👋, I'm Daccho!
 </h1>
 <p align="center">
-  A high school student who loves programming.
+  A university student who loves programming and marathon.
 </p>
 
 <p align="center">
