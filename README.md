@@ -19,7 +19,7 @@
 ### 💡 About Me
 - 🏫 I'm a university student in Japan.
 - 💻 I'm passionate about backend development and algorithms.
-- 🌱 I’m currently learning **Go** and **TS**
+- 🌱 I’m currently learning **Go** and **TypeScript**
 - 🚀 I enjoy building useful applications and tools.
 
 ---
