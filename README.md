@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https:dacchotech.net">
+  <a href="https://dacchotech.net">
     <img src="https://uxwing.com/x-social-media-round-icon/" alt="Portfolio">
   </a>
   <a href="https://twitter.com/@Daccho_Tech">
