@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://x.com/Daccho_Tech"><img src="https://img.shields.io/twitter/follow/Daccho_Tech"/></a>
- <a href="https://dacchotech.net"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-black?style=plastic&logoSize=auto&link=https%3A%2F%2Fdacchotech.net"></a>
+ <a href="https://dacchotech.net"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio(click me!)-black?style=plastic&logoSize=auto&link=https%3A%2F%2Fdacchotech.net"></a>
 
 </p>
 
