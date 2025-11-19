@@ -1,4 +1,6 @@
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=wave&height=199&color=gradient&text=Hello!%20I'm%20Daccho&desc=Fullstack%20Engineer&textBg=false&fontAlign=50&fontColor=000000&animation=fadeIn&descAlignY=81" />
+</p>
 <p align="center">
   A university student who loves programming💻 and marathon🏃.
 </p>
