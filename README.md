@@ -20,8 +20,6 @@
 
 ### 🛠️ Languages and Tools
 
-Here are some of the technologies I've been working with:
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,typescript,go,vercel,cloudflare" />
