@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,typescript,next,go,supabase,github,vercel,cloudflare,aws" />
+    <img src="https://skillicons.dev/icons?i=python,typescript,go,gcp,aws" />
   </a>
 </p>
 ---
