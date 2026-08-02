@@ -34,8 +34,10 @@
 Here are some stats about my GitHub activity.
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daccho&theme=ambient_gradient&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daccho&layout=compact&langs_count=8&theme=ambient_gradient"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=Daccho&theme=ambient-gradient"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daccho&theme=tokyo-night"/>
 </p>
 
 ---
